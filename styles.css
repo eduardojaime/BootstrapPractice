@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: orange;
+}
+
+a.dottedlink {
+    color: green;
+    font-size: 20px;
+    border: 5px black dotted;
+    text-decoration: none;
+}
+
+a.solidlink {
+    color: green;
+    font-size: 20px;
+    border: 5px black solid;
+    text-decoration: none;
+}
